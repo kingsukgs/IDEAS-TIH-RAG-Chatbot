@@ -44,6 +44,3 @@ This work was completed as a part of the **Autumn Internship 2025** under the me
 | Programming      | Python                                 |
 | Environment      | Google Colab                           |
 
----
-
-## 📁 Project Structure
